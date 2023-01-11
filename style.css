@@ -1,0 +1,30 @@
+.main-body h1{
+    margin-bottom: 10px;
+  }
+  .calc{
+    width: 400px;
+    height: 600px;
+    background: gray;
+  }
+  
+  input {
+    margin-top: 50px;
+    margin-left: 35px;
+    height: 50px;
+  }
+  
+  #screen{
+    width: 80%;
+    pointer-events: none;
+  }
+  
+  .btn{
+    width: 50px;
+    height: 30px;
+    margin-left: 37px;
+    margin-top: 20px;
+    background: #000;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+  }
